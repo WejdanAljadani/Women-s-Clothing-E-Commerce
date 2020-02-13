@@ -14,4 +14,11 @@ Steps of the project as follows:
    <li>Cleaning Dataset</li>
    <li>Analysis and Visualization</li>
   </ol>
+  
+  the repository includes :
+  <ul>
+   <li>dataset</li>
+   <li>jupyter notebook</li>
+   <li>readme.md</li>
+  </ul>
 
