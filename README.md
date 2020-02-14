@@ -3,7 +3,7 @@
 In this project, I will analyze the reviews for women's clothing e-commerce.
 the questions I will try to answer it as follows:
 <ol>
-  <li>What are the top five products that customers recommend for other people?</li>
+  <li>What are the top five products recommended by reviewers for other people?</li>
   <li>What are the class names of products have most reviewed?</li>
   <li>What are the age groups for women that most reviewed products ?</li>
 </ol>
