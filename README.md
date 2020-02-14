@@ -15,10 +15,12 @@ Steps of the project as follows:
    <li>Analysis and Visualization</li>
   </ol>
   
-  the repository includes :
+  The repository includes :
   <ul>
    <li>dataset</li>
    <li>jupyter notebook</li>
    <li>readme.md</li>
   </ul>
+  <h3>Summary:</h3>
+  <h5>The most reviews of women's clothing e-commerce store by women who their age between 35-45 years and most products reviewed are the dresses.</h5>
 
